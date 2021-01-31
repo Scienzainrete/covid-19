@@ -1,14 +1,15 @@
 "vaccine","total_vaccinations"
 "CNBG, Sinovac",22767000
-"Covaxin, Covishield",2928053
-"Covishield",3800
-"Covishield, Sinopharm",25587
-"Moderna, Pfizer/BioNTech",36292536
-"Oxford/AstraZeneca, Pfizer/BioNTech",15846994
-"Pfizer/BioNTech",14956299
-"Pfizer/BioNTech, Sinopharm",3012780
-"Pfizer/BioNTech, Sinopharm, Sputnik V",361830
+"Covaxin, Oxford/AstraZeneca",3744334
+"Moderna, Pfizer/BioNTech",40474172
+"Oxford/AstraZeneca",41625
+"Oxford/AstraZeneca, Pfizer/BioNTech",17718744
+"Oxford/AstraZeneca, Sinopharm",30861
+"Oxford/AstraZeneca, Sinovac",2003211
+"Pfizer/BioNTech",15857723
+"Pfizer/BioNTech, Sinopharm",3284600
+"Pfizer/BioNTech, Sinopharm, Sputnik V",430759
 "Pfizer/BioNTech, Sinovac",11000
 "Sinopharm",19889
-"Sinovac",3522261
-"Sputnik V",1328024
+"Sinovac",2709692
+"Sputnik V",1366409
