@@ -1,16 +1,18 @@
 "vaccine","total_vaccinations"
-"CNBG, Sinovac",31200000
-"Covaxin, Oxford/AstraZeneca",5416849
+"Covaxin, Oxford/AstraZeneca",5812362
 "Moderna",3109
-"Moderna, Pfizer/BioNTech",52765526
-"Oxford/AstraZeneca",322475
-"Oxford/AstraZeneca, Pfizer/BioNTech",22954080
-"Oxford/AstraZeneca, Sinopharm",445327
-"Oxford/AstraZeneca, Sinovac",3074906
-"Pfizer/BioNTech",17145948
-"Pfizer/BioNTech, Sinopharm",4028924
-"Pfizer/BioNTech, Sinopharm, Sputnik V",538373
-"Pfizer/BioNTech, Sinovac",580886
-"Sinopharm",21204
-"Sinovac",3671288
-"Sputnik V",1447633
+"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",2109641
+"Moderna, Pfizer/BioNTech",59792407
+"Oxford/AstraZeneca",326313
+"Oxford/AstraZeneca, Pfizer/BioNTech",25051470
+"Oxford/AstraZeneca, Sinopharm/Beijing",503141
+"Oxford/AstraZeneca, Sinovac",3553681
+"Pfizer/BioNTech",15589034
+"Pfizer/BioNTech, Sinopharm/Beijing",191406
+"Pfizer/BioNTech, Sinopharm/Beijing, Sinopharm/Wuhan",4313868
+"Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",544209
+"Pfizer/BioNTech, Sinovac",627757
+"Sinopharm/Beijing",21204
+"Sinopharm/Beijing, Sinopharm/Wuhan, Sinovac",31200000
+"Sinovac",3779822
+"Sputnik V",1504767
