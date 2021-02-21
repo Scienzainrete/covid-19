@@ -1,21 +1,22 @@
 "vaccine","total_vaccinations"
-"Covaxin, Oxford/AstraZeneca",10188007
+"Covaxin, Oxford/AstraZeneca",11085173
+"Johnson&Johnson",10414
 "Moderna",3109
-"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",22257872
-"Moderna, Pfizer/BioNTech",79077680
-"Oxford/AstraZeneca",2367963
-"Oxford/AstraZeneca, Pfizer/BioNTech",34862584
-"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinopharm/Wuhan, Sputnik V",5373730
-"Oxford/AstraZeneca, Sinopharm/Beijing",2294474
+"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",23571883
+"Moderna, Pfizer/BioNTech",82916406
+"Oxford/AstraZeneca",2690105
+"Oxford/AstraZeneca, Pfizer/BioNTech",38289256
+"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinopharm/Wuhan, Sputnik V",5553391
+"Oxford/AstraZeneca, Sinopharm/Beijing",2522543
 "Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",52768
-"Oxford/AstraZeneca, Sinovac",6206680
+"Oxford/AstraZeneca, Sinovac",6813168
 "Oxford/AstraZeneca, Sputnik V",65000
-"Pfizer/BioNTech",15597092
-"Pfizer/BioNTech, Sinopharm/Beijing",263422
+"Pfizer/BioNTech",15115804
+"Pfizer/BioNTech, Sinopharm/Beijing",271749
 "Pfizer/BioNTech, Sinopharm/Beijing, Sinopharm/Wuhan",4313868
-"Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",945989
-"Pfizer/BioNTech, Sinovac",2386725
-"Sinopharm/Beijing",144897
+"Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",987000
+"Pfizer/BioNTech, Sinovac",2884389
+"Sinopharm/Beijing",187553
 "Sinopharm/Beijing, Sinopharm/Wuhan, Sinovac",40520000
-"Sinovac",7929148
-"Sputnik V",4555805
+"Sinovac",8736112
+"Sputnik V",4702340
