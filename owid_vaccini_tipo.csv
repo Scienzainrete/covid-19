@@ -1,27 +1,27 @@
 "vaccine","total_vaccinations"
-"Covaxin, Oxford/AstraZeneca",24367906
-"Johnson&Johnson",107054
-"Johnson&Johnson, Moderna, Pfizer/BioNTech",93692598
+"Covaxin, Oxford/AstraZeneca",25685011
+"Johnson&Johnson",128887
+"Johnson&Johnson, Moderna, Pfizer/BioNTech",95721290
 "Moderna",8220
-"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",39821640
-"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",1425697
-"Moderna, Pfizer/BioNTech",107415244
-"Oxford/AstraZeneca",6344747
-"Oxford/AstraZeneca, Pfizer/BioNTech",52926911
+"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",40996678
+"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",1476985
+"Moderna, Pfizer/BioNTech",107603369
+"Oxford/AstraZeneca",6739300
+"Oxford/AstraZeneca, Pfizer/BioNTech",53732763
 "Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinopharm/Wuhan, Sputnik V",6325211
-"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",2265092
-"Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik V",3100868
-"Oxford/AstraZeneca, Sinopharm/Beijing",4818668
-"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",1721839
-"Oxford/AstraZeneca, Sinovac",11357494
-"Pfizer/BioNTech",16362783
+"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",2310813
+"Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik V",3488118
+"Oxford/AstraZeneca, Sinopharm/Beijing",5018751
+"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",1847320
+"Oxford/AstraZeneca, Sinovac",11756131
+"Pfizer/BioNTech",16667610
 "Pfizer/BioNTech, Sinopharm/Beijing",247776
 "Pfizer/BioNTech, Sinopharm/Beijing, Sinopharm/Wuhan",4313868
 "Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",987000
-"Pfizer/BioNTech, Sinovac",5574818
-"Sinopharm/Beijing",612181
+"Pfizer/BioNTech, Sinovac",6224347
+"Sinopharm/Beijing",660910
 "Sinopharm/Beijing, Sinopharm/Wuhan, Sinovac",52520000
 "Sinopharm/Beijing, Sputnik V",3062
-"Sinovac",15148983
-"Sputnik V",5692340
-"Sputnik V, EpiVacCorona",6694349
+"Sinovac",16143682
+"Sputnik V",5701600
+"Sputnik V, EpiVacCorona",7048129
